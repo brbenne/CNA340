@@ -9,19 +9,24 @@ Open the "NumberGuessingGame.py" file with python and the game will play continu
 ### Prerequisites
 
 The Number Guessing Game requires Python 3.7 or later to run.
-Bing python download and make sure to get the most up to date version (as of 20190430)
+[You can download Python here:]
+(https://www.python.org/downloads/)
+
+[Pycharm can be downloaded as an IDE (Integrated Development Environment) here:]
+(https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program from your command prompt. 
 
-```
-python NumberGuessingG.py
-```
+Change your directory to where the NumberGuessingGame.py file is.
+Run the following command:
+
+python NumberGuessingGame.py
 
 any other method you have for making .py files function is also viable
 
-```
 
 ## Thanks
 
 Thank you very much for playing the game. Pass it on and see who can win 10 rounds with the least # of guesses."# CNA340_Brandon" 
+"# CNA340_Brandon" 
